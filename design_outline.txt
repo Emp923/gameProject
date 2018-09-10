@@ -16,6 +16,17 @@ Factions ?
 Setting / World
 	- Cities / Towns
 	- Environments
+	- Dungeons
+		- Man-made
+			- contains helpful Items
+				- mapped out for player
+				- weapons and armor
+			- Mines (smaller)
+			- Fortresses or Strongholds (larger and complex)
+		- Natural
+			- Caves
+			- contains natural resorces
+			- no map avalible
 
 Plot
 
